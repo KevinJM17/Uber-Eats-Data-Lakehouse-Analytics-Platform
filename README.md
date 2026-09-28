@@ -1,1 +1,1 @@
-# Uber-Eats-Data-Lakehouse-Analytics-Platform
+# Uber Eats Data Lakehouse & Analytics Platform
