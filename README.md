@@ -1,9 +1,6 @@
 # Uber Eats Data Lakehouse & Analytics Platform
-
 ## ADF Linked Services
-
 ### 1. `LS_SQL_Src`
-
 Linked service used by **Azure Data Factory (ADF)** to connect to the source **Azure SQL Database**.
 
 The ADF managed identity must be granted access to the Azure SQL Database.
